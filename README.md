@@ -103,7 +103,8 @@ ABYSTAND: Number of social security insurance policies<br>
 CARAVAN: Number of mobile home policies 0 - 1<br>
 
 ## Correlations and Visualizations<br>
-
+![](https://github.com/NorahCC/Identification_for_Potential_Insurance_Customers/blob/main/pic/1.png)
+![](https://github.com/NorahCC/Identification_for_Potential_Insurance_Customers/blob/main/pic/2.png)
 ## Feature Engineering<br>
 Categorical variables: The target mean encoding method was used since the categorical variable MOSTYPE has 41 types.<br>
 Numerical variables: Processed with the Standard Scaler<br>
@@ -129,7 +130,9 @@ Oversampling with SMOTE<br>
 Hyper-parameter adjustment (e.g.changing threshold)<br>
 
 ## Feature Importance & Model Tuning: <br>
-
+![](https://github.com/NorahCC/Identification_for_Potential_Insurance_Customers/blob/main/pic/3.png)
+![](https://github.com/NorahCC/Identification_for_Potential_Insurance_Customers/blob/main/pic/5.png)
+![](https://github.com/NorahCC/Identification_for_Potential_Insurance_Customers/blob/main/pic/4.png)
 
 ## Ideas for Further Improvement:<br>
 Use a combined re-smapling method - SMOTE & TomekLinks<br>
