@@ -1,7 +1,7 @@
 # Identification for Potential Insurance Customers
 This is the capstone project for the course - Advanced Data Science with IBM Specialization.<br>
 This project was completed on IBM cloud with **Spark, SparkSQL and Python**.<br>
-A code pre-view is available with the file `DS Capstone_Insurance Purchasing Analysis.pdf`.<br>
+A code preview is available in the file `DS Capstone_Insurance Purchasing Analysis.pdf`.<br>
 
 ## Project Overview
 This data set used in the CoIL 2000 Challenge contains information on customers of an insurance company. <br>
