@@ -1,5 +1,5 @@
 # Identification for Potential Insurance Customers
-This is the capstone project for the course - Advanced Data Science with IBM Specialization.
+This is the capstone project for the course - Advanced Data Science with IBM Specialization.<br>
 This project was completed on IBM cloud with Spark, SparkSQL and Python.
 Code pre-view is available with the file DS Capstone_Insurance Purchasing Analysis.pdf.
 
