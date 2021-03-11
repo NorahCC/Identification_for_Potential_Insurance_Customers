@@ -102,7 +102,7 @@ AINBOED: Number of property insurance policies<br>
 ABYSTAND: Number of social security insurance policies<br>
 CARAVAN: Number of mobile home policies 0 - 1<br>
 
-## Correlations and visualizations<br>
+## Correlations and Visualizations<br>
 
 ## Feature Engineering<br>
 Categorical variables: The target mean encoding method was used since the categorical variable MOSTYPE has 41 types.<br>
@@ -116,7 +116,7 @@ RandomForestClassifier<br>
 GBTClassifier<br>
 FMClassifierClassifier<br>
 
-## Solutions for imbalanced data:<br>
+## Solutions for Imbalanced Data:<br>
 Oversampling with SMOTE<br>
 Hyper-parameter adjustment (e.g.changing threshold)<br>
 
@@ -126,3 +126,7 @@ Hyper-parameter adjustment (e.g.changing threshold)<br>
 ## Feature Importance:<br>
 
 ## Ideas for Further Improvement:<br>
+Use a combined re-smapling method - SMOTE & TomekLinks<br>
+Use algorithms with the base estimator (e.g.Easy Ensemble Classifier, RUS Boost Classifier)<br>
+Train the model with different feature selection methods (e.g. variance threshold filter, feature selection based on the feature importance in LR/RF model)<br>
+Tune the model in a more refined way (e.g use the range() function instead of a given list)
