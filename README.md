@@ -9,7 +9,7 @@ The data consists of 86 variables and includes product usage data and socio-demo
 The data was collected to answer the question: how to identify the potential customers?<br>
 
 ## Data Source
-The data file contains the following fields:<br>
+The data file contains the following fields (86 varlables):<br>
 
 ORIGIN: train or test, as described above<br>
 MOSTYPE: Customer Subtype; see L0<br>
