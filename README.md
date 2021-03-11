@@ -107,7 +107,7 @@ CARAVAN: Number of mobile home policies 0 - 1<br>
 ![](https://github.com/NorahCC/Identification_for_Potential_Insurance_Customers/blob/main/pic/2.png)
 ## Feature Engineering<br>
 Categorical variables: The target mean encoding method was used since the categorical variable MOSTYPE has 41 types.<br>
-Numerical variables: Processed with the Standard Scaler<br>
+Numerical variables: Processed with the VectorAssembler and StandardScaler<br>
 
 ## Model Selection:<br>
 LogisticRegressionClassifier<br>
