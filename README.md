@@ -5,8 +5,8 @@ A code pre-view is available with the file `DS Capstone_Insurance Purchasing Ana
 
 ## Project Overview
 This data set used in the CoIL 2000 Challenge contains information on customers of an insurance company. <br>
-The data consists of 86 variables and includes product usage data and socio-demographic data derived from zip area codes. <br>
-The data was collected to answer the question: how to identify the potential customers?<br>
+It consists of 86 variables and includes product usage data and socio-demographic data derived from zip area codes. <br>
+And it was collected to answer the question: how to identify the potential customers?<br>
 
 ## Data Source
 The data file contains the following fields (86 varlables):<br>
