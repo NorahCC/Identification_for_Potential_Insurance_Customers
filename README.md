@@ -116,14 +116,20 @@ RandomForestClassifier<br>
 GBTClassifier<br>
 FMClassifierClassifier<br>
 
+Results:<br>
+LogisticRegressionClassifier_SMOTE: f1_score, accuracy,precision,recall: (0.9, 0.93, 0.88, 0.93)<br>
+LinearSVC_SMOTE: f1_score, accuracy,precision,recall: (0.9, 0.94, 0.88, 0.94)<br>
+NaiveBayesClassifier_SMOTE: f1_score, accuracy,precision,recall:  (0.77, 0.69, 0.91, 0.69)<br>
+RandomForestClassifier_SMOTE: f1_score, accuracy,precision,recall:  (0.91, 0.92, 0.89, 0.92)<br>
+GBTClassifier_SMOTE: f1_score, accuracy,precision,recall: (0.9, 0.91, 0.88, 0.91)<br>
+FMClassifierClassifier_SMOTE: f1_score, accuracy,precision,recall:  (0.84, 0.79, 0.9, 0.79)<br>
+
 ## Solutions for Imbalanced Data:<br>
 Oversampling with SMOTE<br>
 Hyper-parameter adjustment (e.g.changing threshold)<br>
 
-## Model Tuning: <br>
+## Feature Importance & Model Tuning: <br>
 
-
-## Feature Importance:<br>
 
 ## Ideas for Further Improvement:<br>
 Use a combined re-smapling method - SMOTE & TomekLinks<br>
